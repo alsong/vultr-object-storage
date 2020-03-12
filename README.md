@@ -1,2 +1,2 @@
-# vultr-object-storage
-Vultr object storage with nodejs
+# v-object-storage
+sample code for vultr object storage with nodejs
